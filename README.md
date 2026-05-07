@@ -1,4 +1,4 @@
-# vex-ru.github.io/codeiq
+# https://cubetitled-ui.github.io/codeiq/
 
 
 # Утилиты для портирования 
